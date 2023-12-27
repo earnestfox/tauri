@@ -1,5 +1,11 @@
 # Changelog
 
+## \[1.5.5]
+
+### New Features
+
+- [`6e488378`](https://www.github.com/tauri-apps/tauri/commit/6e48837860203582d2ef8e59d4524f98511a14c0)([#8474](https://www.github.com/tauri-apps/tauri/pull/8474)) Re-export `Url` type.
+
 ## \[1.5.4]
 
 ### Enhancements
